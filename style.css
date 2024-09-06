@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(241, 83%, 44%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: auto;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7e0e0;
+    height: 60vh;
+    width: 50vw;
+}
+
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.txt{
+
+    height: 2.1rem;
+    width: 20rem;
+}
+
+.one1{
+    padding: 5px;
+   
+}
+
+.btn{
+    height: 2.1rem;
+    width: 8rem;
+    border-radius: 5px;
+    
+}
